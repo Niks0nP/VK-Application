@@ -54,6 +54,8 @@ dependencies {
     implementation (libs.logging.interceptor)
     implementation (libs.okhttp)
 
+    implementation (libs.glide)
+
     implementation (libs.kotlinx.coroutines.core)
     implementation (libs.kotlinx.coroutines.android)
 
