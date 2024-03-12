@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">VK Application</string>
     <string name="product">Our products</string>
+    <string name="show_more">Show more</string>
 </resources>
